@@ -1,0 +1,16 @@
+.nav {
+  grid-area: n;
+  background-color: chartreuse;
+  /* margin: 30px; */
+}
+
+.item {
+  color: azure;
+  text-decoration: none;
+  padding: 5px;
+
+}
+.active {
+  color: gold;
+  text-decoration: none;
+}

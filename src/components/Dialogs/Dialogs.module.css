@@ -1,0 +1,19 @@
+.dialog {
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+  /* grid-template-rows: 2fr 10fr; */
+  padding-bottom: 600px;
+}
+
+.active {
+  color: blueviolet;
+  text-decoration: none;
+}
+.messages {
+  padding: 10px;
+}
+.item {
+  color: azure;
+  text-decoration: none;
+  padding: 10px;
+}
